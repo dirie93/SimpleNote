@@ -20,6 +20,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ![image](https://github.com/dirie93/SimpleNote/assets/128429238/3b3ce136-461a-490e-bc68-986b3817ca55)
 
 
+[Deployed App](https://blooming-temple-03641-7cce5c7dd28b.herokuapp.com/)
 
 
 ## Contact 
