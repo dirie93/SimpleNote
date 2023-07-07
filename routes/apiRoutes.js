@@ -27,7 +27,7 @@ router.post("/notes", (req, res) => {
   );
 });
 
-// DELETE API notes
+// Delting API notes from database
 router.delete("/notes/:id", (req, res) => {
   const { id } = req.params;
 
